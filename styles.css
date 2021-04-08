@@ -424,10 +424,14 @@ div.footer h6 {
     div.background {
         background: #fff;
         box-shadow: 2px 2px 15px 0 rgb(135 135 135 / 40%);
-        padding: 15px 40px 30px;
+        padding: 15px 40px 50px;
         width: 550px;
         height: 350px;
         position: relative;
+    }
+
+    div.background p {
+        margin-bottom: 30px;
     }
 
     div.hero-background-pos {
