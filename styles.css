@@ -426,7 +426,7 @@ div.footer h6 {
         box-shadow: 2px 2px 15px 0 rgb(135 135 135 / 40%);
         padding: 15px 40px 50px;
         width: 550px;
-        height: 350px;
+        height: auto;
         position: relative;
     }
 
@@ -440,8 +440,8 @@ div.footer h6 {
         right: unset;
         left: unset;
         background: #fff;
-        width: 140px;
-        height: 140px;
+        width: 100px;
+        height: 100px;
         border-radius: 50%;
         box-shadow: 2px 2px 15px 0 rgb(135 135 135 / 40%);
     }
